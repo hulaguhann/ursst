@@ -1,2 +1,3 @@
 # ursst
-müngke tengriyin küçüdür
+[müngke tengriyin küçüdür
+https://hulaguhann.github.io/ursst/
