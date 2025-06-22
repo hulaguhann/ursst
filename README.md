@@ -1,0 +1,2 @@
+# ursst
+müngke tengriyin küçüdür
